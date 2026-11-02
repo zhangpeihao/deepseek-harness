@@ -94,3 +94,5 @@ pnpm dsh web
 [MIT](LICENSE)
 
 第三方依赖及其许可证见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+本仓库同时用于 agent harness 的实验。
